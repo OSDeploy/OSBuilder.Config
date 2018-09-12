@@ -1,7 +1,10 @@
 {"osbuilder":[{
-"InfoMessage":	["New: https://www.osdeploy.com/osbuilder/how-to/windows-setup-with-dart-remote-connection"],
+"InfoMessage":	[
+				"New: https://www.osdeploy.com/osbuilder/how-to/windows-setup-with-dart-remote-connection"
+				],
 "Module":		"18.9.11.0",
-"ModuleInfo":	["OSBuilder 18.9.11.0 is released",
+"ModuleInfo":	[
+				"OSBuilder 18.9.11.0 is released",
 				"WinRE.wim winpeshl.ini modification from -prompt to -network to resolve OSUpgrade issues",
 				"https://www.osdeploy.com/osbuilder/release-information.html",
 				"",
@@ -12,13 +15,18 @@
 				"Uninstall-Module -Name OSBuilder -AllVersions -Force",
 				"",
 				"Install the latest version with the following PowerShell Command:",
-				"Install-Module -Name OSBuilder -Scope CurrentUser"],
+				"Install-Module -Name OSBuilder -Scope CurrentUser"
+				],
 "Stacks":		"2018-07-09",
-"StacksInfo":	["Servicing Stacks have been modified or released",
+"StacksInfo":	[
+				"Servicing Stacks have been modified or released",
 				"Check for new Servicing Stacks with the following PowerShell Command:",
-				"Get-OSBuilder -DownloadUpdates Latest"],
+				"Get-OSBuilder -DownloadUpdates Latest"
+				],
 "Updates":		"2018-08-10",
-"UpdatesInfo":	["Windows Updates have been modified or released",
+"UpdatesInfo":	[
+				"Windows Updates have been modified or released",
 				"Check for new Windows Updates with the following PowerShell Command:",
-				"Get-OSBuilder -DownloadUpdates Latest"]
+				"Get-OSBuilder -DownloadUpdates Latest"
+				]
 }]}
