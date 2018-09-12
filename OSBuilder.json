@@ -16,10 +16,10 @@
 				"Install the latest version with the following PowerShell Command:",
 				"Install-Module -Name OSBuilder -Scope CurrentUser"
 				],
-"Updates":		"445714",
+"Updates":		"4457146",
 "UpdatesInfo":	[
 				"OSBuilder Updates were changed on September 11, 2018",
-				"Check for new Updates with the following PowerShell Command:",
-				"Get-OSBuilderUpdates"
+				"Download new Updates using the following PowerShell Command:",
+				"Get-OSBuilderUpdates -CheckForUpdates"
 				]
 }]}
