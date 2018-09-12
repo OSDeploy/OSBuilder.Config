@@ -1,6 +1,7 @@
 {"osbuilder":	[{
 "InfoMessage":	[
-            	"New: https://www.osdeploy.com/osbuilder/how-to/get-osbuilderupdates"
+		"New: https://www.osdeploy.com/osbuilder/how-to/get-osbuilderupdates",
+            	"New: https://www.osdeploy.com/osbuilder/how-to/update-osmedia"
            	],
 "Module":	"18.9.12.0",
 "ModuleInfo":	[
