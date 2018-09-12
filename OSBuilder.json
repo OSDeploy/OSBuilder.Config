@@ -1,7 +1,5 @@
 {"osbuilder":[{
-"InfoMessage":	[
-				"New: https://www.osdeploy.com/osbuilder/how-to/windows-setup-with-dart-remote-connection"
-				],
+"InfoMessage":	null,
 "Module":		"18.9.12.0",
 "ModuleInfo":	[
 				"Welcome to OSBuilder 18.9.12.0",
