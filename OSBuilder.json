@@ -2,9 +2,9 @@
 "InfoMessage":	[
 				"New: https://www.osdeploy.com/osbuilder/how-to/windows-setup-with-dart-remote-connection"
 				],
-"Module":		"18.9.11.0",
+"Module":		"18.9.12.0",
 "ModuleInfo":	[
-				"Welcome to OSBuilder 18.9.11.0",
+				"Welcome to OSBuilder 18.9.12.0",
 				"https://www.osdeploy.com/osbuilder/release-information.html",
 				"",
 				"Download from the PowerShell Gallery",
@@ -16,13 +16,7 @@
 				"Install the latest version with the following PowerShell Command:",
 				"Install-Module -Name OSBuilder -Scope CurrentUser"
 				],
-"Stacks":		"2018-07-09",
-"StacksInfo":	[
-				"Servicing Stacks have been modified or released",
-				"Check for new Servicing Stacks with the following PowerShell Command:",
-				"Get-OSBuilder -DownloadUpdates Latest"
-				],
-"Updates":		"2018-08-10",
+"Updates":		"4457146",
 "UpdatesInfo":	[
 				"Windows Updates have been modified or released",
 				"Check for new Windows Updates with the following PowerShell Command:",
