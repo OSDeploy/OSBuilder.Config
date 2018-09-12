@@ -4,8 +4,7 @@
 				],
 "Module":		"18.9.11.0",
 "ModuleInfo":	[
-				"OSBuilder 18.9.11.0 is released",
-				"WinRE.wim winpeshl.ini modification from -prompt to -network to resolve OSUpgrade issues",
+				"Welcome to OSBuilder 18.9.11.0",
 				"https://www.osdeploy.com/osbuilder/release-information.html",
 				"",
 				"Download from the PowerShell Gallery",
