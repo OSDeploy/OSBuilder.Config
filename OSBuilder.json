@@ -1,26 +1,26 @@
-{"osbuilder":	[{
-"InfoMessage":	[
-		"New: https://www.osdeploy.com/osbuilder/how-to/get-osbuilderupdates",
-            	"New: https://www.osdeploy.com/osbuilder/how-to/update-osmedia"
-           	],
-"Module":	"18.9.13.0",
-"ModuleInfo":	[
-		"Resolves an issue calculating the UBR",
-		"https://www.osdeploy.com/osbuilder/release-information.html",
-		"",
-		"Download from the PowerShell Gallery",
-		"https://www.powershellgallery.com/packages/OSBuilder/18.9.13.0",
-		"",
-		"Uninstall previous versions using the following PowerShell Command:",
-		"Uninstall-Module -Name OSBuilder -AllVersions -Force",
-		"",
-		"Install the latest version with the following PowerShell Command:",
-		"Install-Module -Name OSBuilder -Scope CurrentUser"
-		],
-"Updates":	"4457146",
-"UpdatesInfo":	[
-		"OSBuilder Updates were changed on September 11, 2018",
-		"Download new Updates using the following PowerShell Command:",
-		"Get-OSBuilderUpdates -CheckForUpdates"
-		]
-}]		}
+{"osbuilder":[{
+	"InfoMessage":[
+	"New: https://www.osdeploy.com/osbuilder/how-to/get-osbuilderupdates",
+	"New: https://www.osdeploy.com/osbuilder/how-to/update-osmedia"
+	],
+	"Module":	"18.9.14.0",
+	"ModuleInfo":[
+	"Automaic Update Downloads",
+	"https://www.osdeploy.com/osbuilder/release-information.html",
+	"",
+	"Download from the PowerShell Gallery",
+	"https://www.powershellgallery.com/packages/OSBuilder/18.9.14.0",
+	"",
+	"Uninstall previous versions using the following PowerShell Command:",
+	"Uninstall-Module -Name OSBuilder -AllVersions -Force",
+	"",
+	"Install the latest version with the following PowerShell Command:",
+	"Install-Module -Name OSBuilder -Scope CurrentUser"
+	],
+	"Updates":	"4457146",
+	"UpdatesInfo":[
+	"OSBuilder Updates were changed on September 11, 2018",
+	"Download new Updates using the following PowerShell Command:",
+	"Get-OSBuilderUpdates -CheckForUpdates"
+	]
+}]}
