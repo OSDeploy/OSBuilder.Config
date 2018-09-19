@@ -19,9 +19,9 @@
 	"Install the latest version with the following PowerShell Command:",
 	"Install-Module -Name OSBuilder -Scope CurrentUser"
 	],
-	"Updates":	"4457146",
+	"Updates":	"4464217",
 	"UpdatesInfo":[
-	"OSBuilder Updates were changed on September 11, 2018",
+	"OSBuilder Updates were changed on September 18, 2018",
 	"Download new Updates using the following PowerShell Command:",
 	"Get-OSBuilderUpdates -CheckForUpdates"
 	]
