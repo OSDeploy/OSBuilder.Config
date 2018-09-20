@@ -3,16 +3,17 @@
 	"Update: https://www.osdeploy.com/osbuilder/quick-instructions",
 	"Update: https://www.osdeploy.com/osbuilder/how-to/import-osmedia"
 	],
-	"Module":	"18.9.20.0",
+	"Module":	"18.9.20.1",
 	"ModuleInfo":[
-	"OSBuilder has been updated to version 18.9.20.0",
+	"OSBuilder has been updated to version 18.9.20.1",
+	"UBR is now calculated using DISM",
 	"Robocopy of Sources directory is causing issues with Upgrade Task Sequences",
 	"You should rebuild your OSMedia and OSBuilds using the original Import-OSMedia",
 	"More information is at the following link",
 	"https://www.osdeploy.com/osbuilder/release-information.html",
 	"",
 	"Download from the PowerShell Gallery",
-	"https://www.powershellgallery.com/packages/OSBuilder/18.9.20.0",
+	"https://www.powershellgallery.com/packages/OSBuilder/18.9.20.1",
 	"",
 	"Uninstall previous versions using the following PowerShell Command:",
 	"Uninstall-Module -Name OSBuilder -AllVersions -Force",
@@ -20,9 +21,9 @@
 	"Install the latest version with the following PowerShell Command:",
 	"Install-Module -Name OSBuilder -Scope CurrentUser"
 	],
-	"Updates":	"4464217",
+	"Updates":	"4457190",
 	"UpdatesInfo":[
-	"OSBuilder Updates were changed on September 18, 2018",
+	"OSBuilder Updates were changed on September 20, 2018",
 	"Download new Updates using the following PowerShell Command:",
 	"Get-OSBuilderUpdates -CheckForUpdates"
 	]
